@@ -13,7 +13,7 @@ Aquí se visualizan los KPIs principales y la cuota de mercado estimada del 45%.
 
 ### Evolución Comparativa
 Análisis temporal comparando el volumen de hipotecas con la evolución del Euríbor y las compraventas.
-![Comparativa](Comparativa.png)
+![Comparativa](Evolucion_Comparativa.png)
 
 ## 🛠️ Tecnologías y Habilidades Aplicadas
 
